@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290317007301",
+    "project_id": "smart-queue-kabale-181fa",
+    "storage_bucket": "smart-queue-kabale-181fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290317007301:android:6d7b9d2860618248e833ac",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP5m2Br1MpnDPx5twZjyR3Qhgbju4FdJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
