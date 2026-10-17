@@ -1,0 +1,50 @@
+============================================
+  SMART QUEUE AI ? START HERE
+============================================
+
+QUICK START (3 steps):
+
+  1. FIRST TIME ONLY: Double-click SETUP.bat
+     - It checks if Python and Flutter are installed
+     - If not, it opens the download pages for you
+     - Wait for it to say "All requirements installed"
+
+  2. EVERY TIME: Double-click START_APP.bat
+     - Two black windows open automatically
+     - Wait ~20 seconds
+
+  3. Open Chrome and go to:  http://localhost:5000
+
+============================================
+
+TEST ACCOUNTS:
+
+  Email:    test1@example.com
+  Password: password123
+
+  On the login screen, choose the tab for your role:
+     - Patient (join queue, book appointments)
+     - Staff (manage queue, predict wait times)
+     - Admin (view stats, manage staff)
+
+============================================
+
+IMPORTANT:
+
+  Do NOT close the two black command windows while using the app.
+  They are the servers that make the app work.
+
+  To stop the app:
+     - Press Ctrl+C in the backend window
+     - Press q then Enter in the frontend window
+
+============================================
+
+IF SOMETHING DOES NOT WORK:
+
+  - Make sure both black windows are open
+  - Backend window should show:  "Application startup complete"
+  - Frontend window should show: "lib\main.dart is being served"
+  - Check the troubleshooting section in INSTALLATION_GUIDE.md
+
+============================================

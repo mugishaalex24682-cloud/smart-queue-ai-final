@@ -3,7 +3,7 @@ title Smart Queue AI - Launcher
 color 0E
 
 echo ============================================================
-echo   Smart Queue AI - Starting everything
+echo   Smart Queue AI - Starting
 echo ============================================================
 echo.
 
